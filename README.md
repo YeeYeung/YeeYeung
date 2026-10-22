@@ -18,6 +18,7 @@ Clinical Research Physician turned Developer. I bridge medicine, data science, a
 
 ## Projects
 
+- [**Brew Science**](https://github.com/YeeYeung/brew-science) - Native iOS coffee brewing toolkit, available on the App Store
 - [**developerFolio**](https://yeeyeung.github.io/developerFolio/) - My personal portfolio site
 - [**ZomatoPredictiveModels**](https://github.com/YeeYeung/ZomatoPredictiveModels) - Predictive modelling for 10,500+ Sydney restaurants using scikit-learn
 
